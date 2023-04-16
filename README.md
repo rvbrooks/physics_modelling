@@ -9,3 +9,9 @@ It will also produce a plot of the fit.
 
 For more details on the physics behind the code, see my [PhD Thesis](http://etheses.dur.ac.uk/14468/1/RVB_Thesis.pdf?DDD25+) or [associated paper](https://iopscience.iop.org/article/10.1088/1367-2630/ac0000).
 
+## Contents
+
+- monte_carlo_atom_temperature.py: the script that does the fitting
+- plt_styles: some nice matplotlib styles for nice plots.
+- monte_carlo_results: the output of the fitting
+- data: a data file from a measurement performed using a Rubidium atom in an optical tweezer that is fitted by the script.
