@@ -15,3 +15,7 @@ For more details on the physics behind the code, see my [PhD Thesis](http://ethe
 - plt_styles: some nice matplotlib styles for nice plots.
 - monte_carlo_results: the output of the fitting
 - data: a data file from a measurement performed using a Rubidium atom in an optical tweezer that is fitted by the script.
+
+
+### <span style="color:orange">Find more of my work [here on GitHub](https://github.com/rvbrooks)!</span>
+
