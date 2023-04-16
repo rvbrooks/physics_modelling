@@ -197,7 +197,7 @@ class TemperatureMonteCarloModel():
                 - T_vary: boolean if the temperature should be a variable fit parameter
                 - amp_vary: boolean if the amplitude should be a variable fit parameter
             Outputs:
-                - A gitted Minimizer object containing fitted temperature and amplitude
+                - A itted Minimizer object containing fitted temperature and amplitude
                   where the residual has been minimized.
         """
         
