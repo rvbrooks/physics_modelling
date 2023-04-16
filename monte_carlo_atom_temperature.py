@@ -269,7 +269,7 @@ if __name__ == "__main__":
     
     # plot the fitted model against the measured data points.
     # using the custom rose_pine matplotlib style in the script directory.
-    with plt.style.context(script_dir+"/rose_pine.mplstyle"):
+    with plt.style.context(script_dir+"/plt_styles/rose_pine.mplstyle"):
         model.plot_mc_results()
     
     plt.savefig("monte_carlo_result.png")
