@@ -1,6 +1,6 @@
 # physics_modelling
 
-A script for Monte Carlo simulation of the temperature of a single atom in an optical tweezer trap.
+A script for fitting a Monte Carlo simulation of the temperature of a single atom in an optical tweezer trap to measured data.
 
 ## About
 
