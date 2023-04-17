@@ -17,5 +17,9 @@ For more details on the physics behind the code, see my [PhD Thesis](http://ethe
 - data: a data file from a measurement performed using a Rubidium atom in an optical tweezer that is fitted by the script.
 
 
+## Results:
+
+![alt text](https://github.com/rvbrooks/physics_modelling/blob/main/monte_carlo_result.png)
+
 ### <span style="color:orange">Find more of my work [here on GitHub](https://github.com/rvbrooks)!</span>
 
