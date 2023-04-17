@@ -11,7 +11,7 @@ For more details on the physics behind the code, see my [PhD Thesis](http://ethe
 
 ## Contents
 
-- monte_carlo_atom_temperature.py: the script that does the fitting
+- [monte_carlo_atom_temperature.py](https://github.com/rvbrooks/physics_modelling/blob/main/monte_carlo_atom_temperature.py): the script that does the fitting
 - plt_styles: some nice matplotlib styles for nice plots.
 - monte_carlo_results: the output of the fitting
 - data: a data file from a measurement performed using a Rubidium atom in an optical tweezer that is fitted by the script.
