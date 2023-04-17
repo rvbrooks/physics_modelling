@@ -19,8 +19,7 @@ For more details on the physics behind the code, see my [PhD Thesis](http://ethe
 
 ## Result:
 
-Learn how I generated this plot: t
-he wiggly line is the best fit of a Monte Carlo simulation to the data points, which are from real measurements of a single atom in a laser trap!
+Learn how I generated this plot: the wiggly line is the best fit of a Monte Carlo simulation to the data points, which are from real measurements of a single atom in a laser trap!
 
 ![alt text](https://github.com/rvbrooks/physics_modelling/blob/main/monte_carlo_result.png)
 
